@@ -1,16 +1,41 @@
-## Hi there 👋
+## yo, i'm yaloxh aka max miloserdov 👋
 
-<!--
-**yaloxh/yaloxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+welcome to my github profile!  
+so yeah, i got skills like these:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 skills & stacks
+
+- 🔥 javascript / typescript mamn
+- 🛠️ node.js backend slayer
+- 💻 react, vite & next.js
+- 📦 api master, rest & graphql style
+- 🧠 ai/ml rookie, always grinding to level up
+- 🐳 docker dude, container game strong
+- ☁️ cloud dropper: aws, vercel, netlify
+- 🎨 ui/ux tweaker, love that pixel-perfect drip
+- 📊 data wrangler: sql, mongodb, firebase
+- ⚡ automation junkie – scripts for days
+- 🤖 bot builder, from discord to telegram
+- 🕵️ open-source contributor, always down for collabs
+- ☕ meme connoisseur & coffee addict
+
+---
+
+## 🌍 where i’m at
+
+- russia, spb
+- always online, always coding
+- dm me for collabs, code jams, or just to talk tech
+
+---
+
+## 🧩 let’s connect
+
+- drop a star ⭐, fork my stuff, or hit me up!
+- [my x(formerly twitter](https://x.com/sloykassvishney) | [my discord](https://discord.com/users/1316072183545724951) | [my telegram](https://t.me/clockerka) | my imstagram and threads is banned rn(((
+
+---
+
+peace out ✌️ – keep grindin’ and ship that code 🚀

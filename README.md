@@ -1,4 +1,4 @@
-## yo, i'm yaloxh aka max miloserdov 👋
+## yo, i'm clockerka aka max miloserdov 👋
 
 welcome to my github profile!  
 so yeah, i got skills like these:

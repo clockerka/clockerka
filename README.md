@@ -26,7 +26,7 @@ so yeah, i got skills like these:
 ## 🌍 where i’m at
 
 - russia, spb
-- always online, always coding
+- always online, (not) always coding
 - dm me for collabs, code jams, or just to talk tech
 
 ---

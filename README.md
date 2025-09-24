@@ -10,12 +10,9 @@ so yeah, i got skills like these:
 - 🔥 javascript / typescript mamn
 - 🛠️ node.js backend slayer
 - 💻 react, vite & next.js
-- 📦 api master, rest & graphql style
-- 🧠 ai/ml rookie, always grinding to level up
-- 🐳 docker dude, container game strong
 - ☁️ cloud dropper: aws, vercel, netlify
 - 🎨 ui/ux tweaker, love that pixel-perfect drip
-- 📊 data wrangler: sql, mongodb, firebase
+- 📊 data wrangler: sql, mongodb
 - ⚡ automation junkie – scripts for days
 - 🤖 bot builder, from discord to telegram
 - 🕵️ open-source contributor, always down for collabs

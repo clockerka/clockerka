@@ -1,4 +1,4 @@
-## yo, i'm maxim 👋
+## yo, i'm maksim 👋
 
 welcome to my github profile!  
 so yeah, i got skills like these:

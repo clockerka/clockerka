@@ -36,9 +36,4 @@ so yeah, i got skills like these:
   
 ---
 
-### 📊 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=clockerka&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
-
 peace out ✌️ – keep grindin’ and ship that code 🚀

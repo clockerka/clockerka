@@ -36,8 +36,7 @@ so yeah, i got skills like these:
   
 ---
 
-
-![my github stats yooo](https://github-readme-stats.vercel.app/api?username=clockerka&show_icons=true&theme=default)
+### :fire: My Stats :
 
 ---
 

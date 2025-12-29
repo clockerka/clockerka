@@ -36,7 +36,8 @@ so yeah, i got skills like these:
   
 ---
 
-### :fire: My Stats :
+### 📊 My Stats :
+[![my github stats yoooo](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 

@@ -37,7 +37,7 @@ so yeah, i got skills like these:
 ---
 
 ### 📊 My Stats :
-[![my github stats yoooo](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![my github stats yoooo](http://github-readme-streak-stats.herokuapp.com?user=clockerka&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
